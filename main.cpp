@@ -4,16 +4,16 @@
 // KIMENET: first appearance time
 
 #include "date/date.h"
-#include "progi3.h"
+#include "main.h"
 #include <string>
 #include <iostream>
 #include <vector>
 #include <chrono>
 #include <unordered_set>
 #include <algorithm>
-#include "dist/json/json.h"
-#include "dist/json/json-forwards.h"
-#include "dist/jsoncpp.cpp"
+#include "json/json/json.h"
+#include "json/json/json-forwards.h"
+#include "json/jsoncpp.cpp"
 #include <fstream>
 
 
